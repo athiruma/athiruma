@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hola 👋
+- 🔭 I’m currently working on Cloud-Governance on AWS, IBM
+        - we monitor the activities in AWS and deleted unwanted resources
+        - Build cost explorer dashboards from 
+- 😄 Pronouns: He / him / his
+
+
 
 <!--
 **athiruma/athiruma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+![](https://github-profile-trophy.vercel.app/?username=athiruma&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a>
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athiruma&theme=dracula" />
+</a>
+
+<a>
+  <img align='float:right' src="https://github-readme-stats.vercel.app/api?username=athiruma&theme=dracula"/>
+</a>
+
+<a>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athiruma&theme=dracula" />
+</a>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athiruma&theme=dracula)..
 -->
