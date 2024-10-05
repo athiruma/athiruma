@@ -1,5 +1,9 @@
 ### Hola 👋
 - Software Engineer @ RedHat
+- Focused on developing automation tools and developing the new tools.
+- AWS Certified Solutions Architect – Associate 
+- Area of Focus: Automation, Development, FullStack Development[MERN]
+- 😄 Pronouns: he/him/his
 
 
 
