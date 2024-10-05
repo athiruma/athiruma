@@ -1,8 +1,5 @@
 ### Hola 👋
-- 🔭 I’m currently working on Cloud-Governance on AWS, IBM \
-        - we monitor the activities in AWS and deleted unwanted resources
-        - Build cost explorer dashboards from 
-- 😄 Pronouns: He / him / his
+- Software Engineer @ RedHat
 
 
 
